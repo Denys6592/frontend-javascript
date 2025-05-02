@@ -3,6 +3,9 @@
       "baseUrl": ".",
       "paths": {
         "@src/*": ["src/*"],
+        "@icon/*": ["src/icons/*"],
+        "@utils/*": ["src/utils/*"],
+        "@store/*": ["src/store/*"]
       }
     }
   }
